@@ -1,0 +1,7 @@
+{
+  "title": "BBC Radio",
+
+  "flag-persisted":   "\u21E3 %s",
+  "flag-favorite":    "\u2605 %s",
+  "flag-new-content": "\u25C9 %s"
+}

@@ -1,0 +1,8 @@
+[
+    {
+        "id": "USE_SHOW_ARTWORK",
+        "type": "bool",
+        "label": "Use Show Artwork",
+        "default": "False" 
+    }
+]
